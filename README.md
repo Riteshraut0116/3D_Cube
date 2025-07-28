@@ -23,9 +23,9 @@ The current gallery features images of the actress **Sreeleela**.
 
 ## 🌐 Live Demo
 
-[- 🔗 Click here to view the live site on Netlify](https://3dcube.netlify.app/)
+[- 🔗 Click here to view the live site on Netlify](https://3dcubesreeleela.netlify.app/)
 
-[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/3d_cube/)
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/3D_Cube/)
 
 ---
 
