@@ -78,6 +78,8 @@ The 3D effect is achieved entirely with CSS. Here's a brief breakdown:
 **Ritesh Raut**  
 *Programmer Analyst, Cognizant*
 
+🧊 Spin in Style — Showcase Images with a CSS-Powered 3D Cube! 🎞️✨
+
 ---
 
 ### 🌐 Connect with me:
